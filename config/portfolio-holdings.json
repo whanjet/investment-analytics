@@ -1,0 +1,14 @@
+{
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "shares": 50,
+      "cost_basis": 120.0
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 30,
+      "cost_basis": 210.5
+    }
+  ]
+}
